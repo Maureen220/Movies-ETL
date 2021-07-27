@@ -1,9 +1,3 @@
-#ignore larger data files
-archive.zip
-movies_metadata.csv
-ratings.csv
-wikipedia-movies.json
-
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
